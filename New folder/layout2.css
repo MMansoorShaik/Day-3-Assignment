@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.one {
+    width: 100%;
+    background-color: cyan;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+}
+.two {
+    height: 300px;
+    width: 15%;
+    background-color: red;
+    margin-left: 4.1%;  
+}
